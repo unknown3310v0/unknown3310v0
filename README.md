@@ -21,5 +21,3 @@
 🎬 **B站**：[https://space.bilibili.com/YOUR_BILIBILI_ID](https://space.bilibili.com/YOUR_BILIBILI_ID)  
 
 非常感谢你的访问🎉🎉 有合作意向，欢迎和我沟通！
-
-![编程少女动图](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNsNTduZG90bjJoMW03OWczOG96ZWJlZjRvbnplazhjOXlmcmxxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QTfX9Ejma3tv9TJGPa/giphy.gif)
