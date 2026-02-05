@@ -13,16 +13,16 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yanzi7310v0@gmail.com)
 
-  Hello! 👏 My name is Yanzi, and I'm from China 🇨🇳. Currently, I am an undergraduate student majoring in Computer Science. I love exploring all sorts of things 0v0.
+  Hello! 👏 My name is Yanzi, and I'm from China 🇨🇳. Currently, I am a front-end engineer responsible for AI application web development at [NebulaCoder](https://nebulacoder.dev.zte.com.cn/) (internal network level). I love exploring all sorts of things 0v0.
 
   ### ⚡ Technologies
 
-  - HTML, JavaScript, TypeScript, CSS, Vue2, Vue3, Tailwind CSS, Python, Cocos Creator, Data Structures, Computer Networking
+  - HTML, JavaScript, CSS, Vue3, TSX, TypeScript, React
 
   ### 😈 Hello World！
 
   - 💬 Welcome to communicate with me 0w0!
-  - 📫 Learning React, Uniapp
+  - 📫 Learning how to better integrate large language models with frontend technologies
 
   Thank you very much for visiting🎉🎉
 
@@ -38,16 +38,16 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yanzi7310v0@gmail.com)
 
-  你好！👏 我叫Yanzi，来自中国🇨🇳，目前是一名计算机科学专业的本科生。我喜欢探索各种有趣的事物 0v0。
+  你好！👏 我叫Yanzi，来自中国🇨🇳，目前是一名前端工程师，负责[NebulaCoder](https://nebulacoder.dev.zte.com.cn/)的AI应用Web前端开发（内网级通用）。我喜欢探索各种有趣的事物 0v0。
 
   ### ⚡ 技术栈
 
-  - HTML、JavaScript、TypeScript、CSS、Vue2、Vue3、Tailwind CSS、Python、Cocos Creator、数据结构、计算机网络
+  - HTML、JavaScript、CSS、Vue3、TSX、TypeScript、React
 
   ### 😈 Hello World！
 
   - 💬 欢迎和我交流 0w0！
-  - 📫 目前正在学习 React、Uniapp
+  - 📫 目前正在学习如何更好地将大模型与前端技术相结合
 
   非常感谢你的访问🎉🎉
 
