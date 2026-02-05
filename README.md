@@ -1,55 +1,25 @@
-<!-- 多语言切换：方案3，使用<details>折叠面板，用户可在仓库主页直接切换查看 -->
-<p align="right">
-  <b>Language:</b>
-  <span>🇬🇧 English | 🇨🇳 中文</span>
-</p>
+## Hi <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<details open>
-  <summary>🇬🇧 English（Click to expand/collapse）</summary>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-  ## Come here, <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+你好！👏 我叫Yanzi，来自中国🇨🇳，目前是一名前端工程师，负责[NebulaCoder](https://nebulacoder.dev.zte.com.cn/)的AI应用Web前端开发（内网级通用）。我喜欢探索各种有趣的事物 0v0。
 
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+### ⚡ 技术栈
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yanzi7310v0@gmail.com)
+- HTML、JavaScript、CSS、Vue3、TSX、TypeScript、React
 
-  Hello! 👏 My name is Yanzi, and I'm from China 🇨🇳. Currently, I am a front-end engineer responsible for AI application web development at [NebulaCoder](https://nebulacoder.dev.zte.com.cn/) (internal network level). I love exploring all sorts of things 0v0.
+### 😈 Hello World！
 
-  ### ⚡ Technologies
+- 📫 目前正在学习如何更好地将大模型与前端技术相结合
+- 📖 目前正在使用大模型上手任意一个技术中ing
 
-  - HTML, JavaScript, CSS, Vue3, TSX, TypeScript, React
+### 🌟 和我联系
 
-  ### 😈 Hello World！
+📧 **邮箱**（正式邮件请发这里！）：yanzi7310v0@gmail.com  
+🐧 **QQ**（欢迎来扯皮＞＜）：1113089068  
+💬 **掘金**（不定期更新时尚小文章！）：[https://juejin.cn/user/2826172528344323](https://juejin.cn/user/2826172528344323)  
+🎬 **B站**：[https://space.bilibili.com/YOUR_BILIBILI_ID](https://space.bilibili.com/YOUR_BILIBILI_ID)  
 
-  - 💬 Welcome to communicate with me 0w0!
-  - 📫 Learning how to better integrate large language models with frontend technologies
+非常感谢你的访问🎉🎉 有合作意向，欢迎和我沟通！
 
-  Thank you very much for visiting🎉🎉
-
-  ![](https://raw.githubusercontent.com/yanzi113/yanzi113/output/github-contribution-grid-snake-dark.svg)
-</details>
-
-<details>
-  <summary>🇨🇳 中文（点击展开/折叠）</summary>
-
-  ## 这里是 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:yanzi7310v0@gmail.com)
-
-  你好！👏 我叫Yanzi，来自中国🇨🇳，目前是一名前端工程师，负责[NebulaCoder](https://nebulacoder.dev.zte.com.cn/)的AI应用Web前端开发（内网级通用）。我喜欢探索各种有趣的事物 0v0。
-
-  ### ⚡ 技术栈
-
-  - HTML、JavaScript、CSS、Vue3、TSX、TypeScript、React
-
-  ### 😈 Hello World！
-
-  - 💬 欢迎和我交流 0w0！
-  - 📫 目前正在学习如何更好地将大模型与前端技术相结合
-
-  非常感谢你的访问🎉🎉
-
-  ![](https://raw.githubusercontent.com/yanzi113/yanzi113/output/github-contribution-grid-snake-dark.svg)
-</details>
+![编程少女动图](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNsNTduZG90bjJoMW03OWczOG96ZWJlZjRvbnplazhjOXlmcmxxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QTfX9Ejma3tv9TJGPa/giphy.gif)
