@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-你好！👏 我叫Yanzi，来自中国🇨🇳，目前是一名前端工程师，负责[NebulaCoder](https://nebulacoder.dev.zte.com.cn/)的AI应用Web前端开发（ZTE内网级通用）。我喜欢探索各种有趣的事物 0v0。
+你好！👏 我叫Yanzi，来自中国🇨🇳，目前是一名前端工程师，负责[NebulaCoder](https://nebulacoder.dev.zte.com.cn/)的Web前端开发（ZTE内网级通用）。我喜欢探索各种有趣的事物 0v0。
 
 ### ⚡ 技术栈
 
